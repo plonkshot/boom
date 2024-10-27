@@ -1056,7 +1056,7 @@
         </div>
         <div class="lzd-logo-bar">
           <div class="logo-bar-content header-content">
-              <div class="lzd-logo-content"><a href="https://unipar.ac.id/" data-spm="dhome"><img src="https://i.ibb.co/P6Y6w0s/mutiara69-logo.png" alt="Neymar88"></a></div>
+              <div class="lzd-logo-content"><a href="https://unipar.ac.id/" data-spm="dhome"><img src="https://i.ibb.co/P6Y6w0s/mutiara69-logo.png" alt="Slot Online"></a></div>
               <div class="lzd-nav-search " data-spm="search">
                 <div id="button" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go"></div>
               </div>
@@ -2102,10 +2102,10 @@
         <nav class="lzd-menu-labels" data-spm="menu">
             <a class="lzd-menu-labels-item" href="https://unipar.ac.id/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="NEYMAR88" class="lzd-site-nav-menu-iconfont-img" src="https://plcl.me/images/gURiw.png">
+                    <img alt="Slot Online" class="lzd-site-nav-menu-iconfont-img" src="https://plcl.me/images/gURiw.png">
                 </span>
-                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-NEYMAR88">&#xe629;</i>-->
-                <span class="lzd-menu-labels-item-text">NEYMAR88</span>
+                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Slot Online">&#xe629;</i>-->
+                <span class="lzd-menu-labels-item-text">Slot Online</span>
             </a>
             <a class="lzd-menu-labels-item" href="//pages.lazada.co.id/wow/i/id/digitalgoods/home?hybrid=1&amp;scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207798_7692459">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
@@ -3183,10 +3183,10 @@
         <nav class="lzd-menu-labels" data-spm="menu">
             <a class="lzd-menu-labels-item" href="https://unipar.ac.id/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="NEYMAR88" class="lzd-site-nav-menu-iconfont-img" src="https://plcl.me/images/gURiw.png">
+                    <img alt="Slot Online" class="lzd-site-nav-menu-iconfont-img" src="https://plcl.me/images/gURiw.png">
                 </span>
-                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-NEYMAR88">&#xe629;</i>-->
-                <span class="lzd-menu-labels-item-text">NEYMAR88</span>
+                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Slot Online">&#xe629;</i>-->
+                <span class="lzd-menu-labels-item-text">Slot Online</span>
             </a>
             <a class="lzd-menu-labels-item" href="https://unipar.ac.id/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
