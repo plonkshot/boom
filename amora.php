@@ -1008,7 +1008,7 @@
         </div>
         <div class="lzd-logo-bar">
           <div class="logo-bar-content header-content">
-              <div class="lzd-logo-content"><a rel="nofollow noopener" href="//www.lazada.co.id/" data-spm="dhome"><img src="https://meubelkayumurah.pics/wp-content/uploads/2024/06/654e16f1bcd8b_logo.webp" alt="Logo Lazada.co.id Toko Online Indonesia"></a></div>
+              <div class="lzd-logo-content"><a rel="nofollow noopener" href="//www.lazada.co.id/" data-spm="dhome"><img src="https://i.ibb.co/VDC00Nw/mutiara69-logo.png" alt="Logo Lazada.co.id Toko Online Indonesia"></a></div>
               <div class="lzd-nav-search " data-spm="search">
                 <div id="button" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go"></div>
               </div>
