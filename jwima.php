@@ -15,7 +15,7 @@
   <meta name="og:url" content="https://mirfaululum.sch.id/" />
   <meta name="og:title" content="Scatter Hitam :> Mahjong Ways 3 Slot Gacor dengan Winrate Tinggi dan Jackpot Besar" />
   <meta name="og:type" content="product" />
-  <meta name="google-site-verification" content="2CfaA-w7C4q25A68CjLL3V8JPWOV3w17FrKP0IeKOgM" />
+  <meta name="google-site-verification" content="seLYTzrtbgztY4OeYxtxk2DMOTc4XEh0Yzh3vHuidIw" />
   <meta name="og:description" content="Mahjong Ways 3 adalah slot gacor dengan fitur scatter hitam yang menawarkan winrate kemenangan tinggi. Daftar sekarang dan nikmati kesempatan meraih jackpot terbesar hari ini!"" />
   <meta name="og:image" content="https://i.ibb.co/gJzv1Qc/pragmaticbaru.png" />
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
