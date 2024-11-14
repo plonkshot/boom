@@ -1005,7 +1005,7 @@
         </div>
         <div class="lzd-logo-bar">
           <div class="logo-bar-content header-content">
-              <div class="lzd-logo-content"><a href="https://bombanakab.go.id/" data-spm="dhome"><img src="https://MUTIARA69.b-cdn.net/logo-gacor.avif" alt="Logo MUTIARA69"></a></div>
+              <div class="lzd-logo-content"><a href="https://bombanakab.go.id/" data-spm="dhome"><img src="https://i.ibb.co.com/4P2w7Kb/mutiara69-logo.png" alt="Logo MUTIARA69"></a></div>
               <div class="lzd-nav-search " data-spm="search">
                 <div id="button" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go"></div>
               </div>
